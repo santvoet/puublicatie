@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 15px;
+}
+#header4-1 H1 {
+  text-align: center;
+  color: #252525;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 25px;
+}
+#header3-5 H3 {
+  text-align: center;
+  font-size: 22px;
+}
+#header3-5 P {
+  text-align: center;
+  font-size: 17px;
+  color: #777777;
+}
+
+#menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-7 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-7 .mbr-navbar__items a {
+  font-size: 15px;
+}
+#header4-8 H1 {
+  text-align: center;
+  color: #252525;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+}
+#header3-9 H3 {
+  text-align: center;
+  font-size: 16px;
+}
+#header3-9 P {
+  text-align: center;
+}
+#content4-10 .mbr-section__col .mbr-header__text {
+  color: #4c6972;
+}
+#content4-10 P {
+  text-align: center;
+}
+#contacts3-13 P {
+  color: #000000;
+}
+#form1-16 .mbr-header__text {
+  text-align: right;
+}
+#header3-35 H3 {
+  font-size: 12px;
+}
+#slider-14 P {
+  text-align: left;
+  font-size: 12px;
+  color: #ffffff;
+}
+#header3-34 H3 {
+  font-size: 12px;
+}
+#header3-33 H3 {
+  font-size: 12px;
+}
+#header3-28 H3 {
+  color: #000000;
+}
+#header3-28 P {
+  color: #000000;
+}
+#header3-23 H3 {
+  color: #000000;
+}
+#header3-23 P {
+  color: #000000;
+}
